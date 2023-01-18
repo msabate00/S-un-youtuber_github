@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - pene
+  - Target
+  - Enemytarget
+  - TargetEnemy
+  - Putamierda
+  - obstaculo
+  - Enemy
+  - putasangre
+  - Fire
+  - abujero
+  - micuerpochingon
+  - estoyaquicerda
+  - cabesa
+  - cuerpasoenemigo
+  - cristal
+  - Desactivador
+  - Granada
+  - TU MADRE ES GAY
+  - taladro
+  - dinero
+  - bolsa
+  - bolsafurgo
+  - graficos
+  - Blanco
+  - Cuchillo
+  - Estante
+  - Espada
+  - ELPLAYERJODER
+  - Audio Sourcesgays
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - polla
+  - PENNE
+  - PASA DE MI
+  - canpollas
+  - sangre
+  - weapons
+  - cuerpofuertechingon
+  - terrenochingado
+  - raycastenemigopum
+  - bala
+  - cabesitachingona
+  - putabalamelee
+  - cristaldemierda
+  - Granada
+  - Activadortaladro
+  - muroinvisible
+  - baladelplayer
+  - YuME_TileMap
+  - PartesEnemigo
+  - MunicionSuelo
+  - PUTOPROCESADO
+  - TerminalUI
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

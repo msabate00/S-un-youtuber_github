@@ -1,0 +1,64 @@
+newmtl Nanosuit:nanosuit_nec02SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.95 0.95 0.95
+Ns 31.00
+newmtl Nanosuit:nanosuit_nec02SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.55 1.55 1.55
+Ns 20.00
+newmtl Nanosuit:nanosuit_nec02SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.27 1.27 1.27
+Ns 56.00
+newmtl Nanosuit:nanosuit_nec02SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.25 0.25 0.25
+Ns 57.00
+newmtl Nanosuit:nanosuit_nec02SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.26 0.26 0.26
+Ns 51.00
+newmtl Nanosuit:nanosuit_nec02SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.52 0.52 0.52
+Ns 17.00
+newmtl Nanosuit:nanosuit_nec02SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.45 1.45 1.45
+Ns 23.00
+newmtl Nanosuit:nanosuit_nec02SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 32.00

@@ -1,0 +1,1067 @@
+fileFormatVersion: 2
+guid: 3736a7e50ebb77d4fbe2d359913ad2d5
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Me_levanto_tio:H_DDS_LowRes
+    100002: Me_levanto_tio:Head
+    100004: Me_levanto_tio:HeadEnd
+    100006: Me_levanto_tio:Hips
+    100008: Me_levanto_tio:l_TeethDown
+    100010: Me_levanto_tio:l_TeethUp
+    100012: Me_levanto_tio:LeftArm
+    100014: Me_levanto_tio:LeftEye
+    100016: Me_levanto_tio:LeftFingerBase
+    100018: Me_levanto_tio:LeftFoot
+    100020: Me_levanto_tio:LeftForeArm
+    100022: Me_levanto_tio:LeftHand
+    100024: Me_levanto_tio:LeftHandIndex1
+    100026: Me_levanto_tio:LeftHandIndex2
+    100028: Me_levanto_tio:LeftHandIndex3
+    100030: Me_levanto_tio:LeftHandIndex4
+    100032: Me_levanto_tio:LeftHandMiddle1
+    100034: Me_levanto_tio:LeftHandMiddle2
+    100036: Me_levanto_tio:LeftHandMiddle3
+    100038: Me_levanto_tio:LeftHandMiddle4
+    100040: Me_levanto_tio:LeftHandPinky1
+    100042: Me_levanto_tio:LeftHandPinky2
+    100044: Me_levanto_tio:LeftHandPinky3
+    100046: Me_levanto_tio:LeftHandPinky4
+    100048: Me_levanto_tio:LeftHandRing1
+    100050: Me_levanto_tio:LeftHandRing2
+    100052: Me_levanto_tio:LeftHandRing3
+    100054: Me_levanto_tio:LeftHandRing4
+    100056: Me_levanto_tio:LeftHandThumb1
+    100058: Me_levanto_tio:LeftHandThumb2
+    100060: Me_levanto_tio:LeftHandThumb3
+    100062: Me_levanto_tio:LeftHandThumb4
+    100064: Me_levanto_tio:LeftLeg
+    100066: Me_levanto_tio:LeftShoulder
+    100068: Me_levanto_tio:LeftToeBase
+    100070: Me_levanto_tio:LeftToeEnd
+    100072: Me_levanto_tio:LeftUpLeg
+    100074: Me_levanto_tio:master
+    100076: Me_levanto_tio:Neck
+    100078: Me_levanto_tio:Reference
+    100080: Me_levanto_tio:RightArm
+    100082: Me_levanto_tio:RightEye
+    100084: Me_levanto_tio:RightFingerBase
+    100086: Me_levanto_tio:RightFoot
+    100088: Me_levanto_tio:RightForeArm
+    100090: Me_levanto_tio:RightHand
+    100092: Me_levanto_tio:RightHandIndex1
+    100094: Me_levanto_tio:RightHandIndex2
+    100096: Me_levanto_tio:RightHandIndex3
+    100098: Me_levanto_tio:RightHandIndex4
+    100100: Me_levanto_tio:RightHandMiddle1
+    100102: Me_levanto_tio:RightHandMiddle2
+    100104: Me_levanto_tio:RightHandMiddle3
+    100106: Me_levanto_tio:RightHandMiddle4
+    100108: Me_levanto_tio:RightHandPinky1
+    100110: Me_levanto_tio:RightHandPinky2
+    100112: Me_levanto_tio:RightHandPinky3
+    100114: Me_levanto_tio:RightHandPinky4
+    100116: Me_levanto_tio:RightHandRing1
+    100118: Me_levanto_tio:RightHandRing2
+    100120: Me_levanto_tio:RightHandRing3
+    100122: Me_levanto_tio:RightHandRing4
+    100124: Me_levanto_tio:RightHandThumb1
+    100126: Me_levanto_tio:RightHandThumb2
+    100128: Me_levanto_tio:RightHandThumb3
+    100130: Me_levanto_tio:RightHandThumb4
+    100132: Me_levanto_tio:RightLeg
+    100134: Me_levanto_tio:RightShoulder
+    100136: Me_levanto_tio:RightToeBase
+    100138: Me_levanto_tio:RightToeEnd
+    100140: Me_levanto_tio:RightUpLeg
+    100142: Me_levanto_tio:Spine
+    100144: Me_levanto_tio:Spine1
+    100146: Me_levanto_tio:Spine2
+    100148: //RootNode
+    400000: Me_levanto_tio:H_DDS_LowRes
+    400002: Me_levanto_tio:Head
+    400004: Me_levanto_tio:HeadEnd
+    400006: Me_levanto_tio:Hips
+    400008: Me_levanto_tio:l_TeethDown
+    400010: Me_levanto_tio:l_TeethUp
+    400012: Me_levanto_tio:LeftArm
+    400014: Me_levanto_tio:LeftEye
+    400016: Me_levanto_tio:LeftFingerBase
+    400018: Me_levanto_tio:LeftFoot
+    400020: Me_levanto_tio:LeftForeArm
+    400022: Me_levanto_tio:LeftHand
+    400024: Me_levanto_tio:LeftHandIndex1
+    400026: Me_levanto_tio:LeftHandIndex2
+    400028: Me_levanto_tio:LeftHandIndex3
+    400030: Me_levanto_tio:LeftHandIndex4
+    400032: Me_levanto_tio:LeftHandMiddle1
+    400034: Me_levanto_tio:LeftHandMiddle2
+    400036: Me_levanto_tio:LeftHandMiddle3
+    400038: Me_levanto_tio:LeftHandMiddle4
+    400040: Me_levanto_tio:LeftHandPinky1
+    400042: Me_levanto_tio:LeftHandPinky2
+    400044: Me_levanto_tio:LeftHandPinky3
+    400046: Me_levanto_tio:LeftHandPinky4
+    400048: Me_levanto_tio:LeftHandRing1
+    400050: Me_levanto_tio:LeftHandRing2
+    400052: Me_levanto_tio:LeftHandRing3
+    400054: Me_levanto_tio:LeftHandRing4
+    400056: Me_levanto_tio:LeftHandThumb1
+    400058: Me_levanto_tio:LeftHandThumb2
+    400060: Me_levanto_tio:LeftHandThumb3
+    400062: Me_levanto_tio:LeftHandThumb4
+    400064: Me_levanto_tio:LeftLeg
+    400066: Me_levanto_tio:LeftShoulder
+    400068: Me_levanto_tio:LeftToeBase
+    400070: Me_levanto_tio:LeftToeEnd
+    400072: Me_levanto_tio:LeftUpLeg
+    400074: Me_levanto_tio:master
+    400076: Me_levanto_tio:Neck
+    400078: Me_levanto_tio:Reference
+    400080: Me_levanto_tio:RightArm
+    400082: Me_levanto_tio:RightEye
+    400084: Me_levanto_tio:RightFingerBase
+    400086: Me_levanto_tio:RightFoot
+    400088: Me_levanto_tio:RightForeArm
+    400090: Me_levanto_tio:RightHand
+    400092: Me_levanto_tio:RightHandIndex1
+    400094: Me_levanto_tio:RightHandIndex2
+    400096: Me_levanto_tio:RightHandIndex3
+    400098: Me_levanto_tio:RightHandIndex4
+    400100: Me_levanto_tio:RightHandMiddle1
+    400102: Me_levanto_tio:RightHandMiddle2
+    400104: Me_levanto_tio:RightHandMiddle3
+    400106: Me_levanto_tio:RightHandMiddle4
+    400108: Me_levanto_tio:RightHandPinky1
+    400110: Me_levanto_tio:RightHandPinky2
+    400112: Me_levanto_tio:RightHandPinky3
+    400114: Me_levanto_tio:RightHandPinky4
+    400116: Me_levanto_tio:RightHandRing1
+    400118: Me_levanto_tio:RightHandRing2
+    400120: Me_levanto_tio:RightHandRing3
+    400122: Me_levanto_tio:RightHandRing4
+    400124: Me_levanto_tio:RightHandThumb1
+    400126: Me_levanto_tio:RightHandThumb2
+    400128: Me_levanto_tio:RightHandThumb3
+    400130: Me_levanto_tio:RightHandThumb4
+    400132: Me_levanto_tio:RightLeg
+    400134: Me_levanto_tio:RightShoulder
+    400136: Me_levanto_tio:RightToeBase
+    400138: Me_levanto_tio:RightToeEnd
+    400140: Me_levanto_tio:RightUpLeg
+    400142: Me_levanto_tio:Spine
+    400144: Me_levanto_tio:Spine1
+    400146: Me_levanto_tio:Spine2
+    400148: //RootNode
+    2100000: Me_levanto_tio__Body_Low1
+    4300000: Me_levanto_tio:l_TeethDown
+    4300002: Me_levanto_tio:l_TeethUp
+    4300004: Me_levanto_tio:H_DDS_LowRes
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Me_levanto_tio:H_DDS_LowRes
+    13700002: Me_levanto_tio:l_TeethDown
+    13700004: Me_levanto_tio:l_TeethUp
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 230
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: Me_levanto_tio:Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Me_levanto_tio:LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Me_levanto_tio:RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Me_levanto_tio:LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Me_levanto_tio:RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Me_levanto_tio:LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Me_levanto_tio:RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Me_levanto_tio:Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Me_levanto_tio:Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Me_levanto_tio:Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Me_levanto_tio:Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Me_levanto_tio:LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Me_levanto_tio:RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Me_levanto_tio:LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Me_levanto_tio:RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Me_levanto_tio:LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Me_levanto_tio:RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Me_levanto_tio:LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Me_levanto_tio:RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Me_levanto_tio:LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Me_levanto_tio:RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Me_levanto_tio:LeftHandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Me_levanto_tio:LeftHandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Me_levanto_tio:LeftHandThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Me_levanto_tio:LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Me_levanto_tio:LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Me_levanto_tio:LeftHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Me_levanto_tio:LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Me_levanto_tio:LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Me_levanto_tio:LeftHandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Me_levanto_tio:LeftHandRing1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Me_levanto_tio:LeftHandRing2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Me_levanto_tio:LeftHandRing3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Me_levanto_tio:LeftHandPinky1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Me_levanto_tio:LeftHandPinky2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Me_levanto_tio:LeftHandPinky3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Me_levanto_tio:RightHandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Me_levanto_tio:RightHandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Me_levanto_tio:RightHandThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Me_levanto_tio:RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Me_levanto_tio:RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Me_levanto_tio:RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Me_levanto_tio:RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Me_levanto_tio:RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Me_levanto_tio:RightHandMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Me_levanto_tio:RightHandRing1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Me_levanto_tio:RightHandRing2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Me_levanto_tio:RightHandRing3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Me_levanto_tio:RightHandPinky1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Me_levanto_tio:RightHandPinky2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Me_levanto_tio:RightHandPinky3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Me_levanto_tio:Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: resibewey(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Me_levanto_tio:H_DDS_LowRes
+      parentName: resibewey(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Me_levanto_tio:l_TeethDown
+      parentName: resibewey(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Me_levanto_tio:l_TeethUp
+      parentName: resibewey(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Me_levanto_tio:master
+      parentName: resibewey(Clone)
+      position: {x: 0.00027241756, y: 0, z: 0.103930525}
+      rotation: {x: 6.1204596e-17, y: 0.99999994, z: -6.1204596e-17, w: -0.00045310534}
+      scale: {x: 0.08804766, y: 0.08804766, z: 0.08804766}
+    - name: Me_levanto_tio:Reference
+      parentName: Me_levanto_tio:master
+      position: {x: -0.0006213898, y: 0, z: 0.6857011}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Me_levanto_tio:Hips
+      parentName: Me_levanto_tio:Reference
+      position: {x: -0.0005367181, y: 0.96561027, z: 0.56961864}
+      rotation: {x: 0.00032039388, y: -0.70710677, z: -0.70710677, w: -0.00032039388}
+      scale: {x: 1.0000017, y: 1.0000013, z: 1.0000007}
+    - name: Me_levanto_tio:Spine
+      parentName: Me_levanto_tio:Hips
+      position: {x: -0.0000000598396, y: 0.000000012410055, z: 0.042125046}
+      rotation: {x: 0.5, y: -0.5, z: -0.5, w: -0.5}
+      scale: {x: 1.0000007, y: 1.0000012, z: 1.0000007}
+    - name: Me_levanto_tio:Spine1
+      parentName: Me_levanto_tio:Spine
+      position: {x: -0.084250115, y: 0.0000000023302014, z: -0.000000003629791}
+      rotation: {x: 0.000000014901159, y: 0.10656729, z: -0.000000029802319, w: 0.9943055}
+      scale: {x: 0.99999964, y: 1.0000001, z: 0.9999992}
+    - name: Me_levanto_tio:Spine2
+      parentName: Me_levanto_tio:Spine1
+      position: {x: -0.10727664, y: -0.000000017898039, z: 0.000000010564233}
+      rotation: {x: 0.00000002625126, y: 0.007306791, z: 0.000000032677846, w: -0.9999733}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1.0000008}
+    - name: Me_levanto_tio:Neck
+      parentName: Me_levanto_tio:Spine2
+      position: {x: -0.26272008, y: 0.0000003000371, z: -0.11654007}
+      rotation: {x: 0.000000026165417, y: -0.31570977, z: 0.00000006969559, w: 0.9488558}
+      scale: {x: 0.99999964, y: 1, z: 0.9999993}
+    - name: Me_levanto_tio:Head
+      parentName: Me_levanto_tio:Neck
+      position: {x: -0.093949, y: 0.00000022116852, z: 0.00000017272626}
+      rotation: {x: -0, y: 0.21992874, z: -0.0000000149011585, w: 0.975516}
+      scale: {x: 1.0000027, y: 1.0000044, z: 1.0000075}
+    - name: Me_levanto_tio:HeadEnd
+      parentName: Me_levanto_tio:Head
+      position: {x: -0.180788, y: -1.60572e-16, z: -8.881784e-18}
+      rotation: {x: 0.7071068, y: -0.7071068, z: -4.3297806e-17, w: 4.3297806e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Me_levanto_tio:LeftEye
+      parentName: Me_levanto_tio:Head
+      position: {x: -0.05467941, y: 0.0308964, z: -0.066276714}
+      rotation: {x: -1.1371146e-16, y: -0.7071068, z: -1.1371146e-16, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Me_levanto_tio:RightEye
+      parentName: Me_levanto_tio:Head
+      position: {x: -0.054683726, y: -0.030896412, z: -0.06627624}
+      rotation: {x: -4.669823e-16, y: -0.7071068, z: -4.669823e-16, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Me_levanto_tio:RightShoulder
+      parentName: Me_levanto_tio:Spine2
+      position: {x: -0.2251421, y: -0.031090517, z: -0.08412816}
+      rotation: {x: -0.06294634, y: -0.07946269, z: 0.76400775, w: 0.6371935}
+      scale: {x: 1.0000002, y: 1, z: 0.9999997}
+    - name: Me_levanto_tio:RightArm
+      parentName: Me_levanto_tio:RightShoulder
+      position: {x: -0.16608499, y: -0.0000000369219, z: -0.000000025382231}
+      rotation: {x: 0.0012821666, y: 0.031773146, z: -0.12727192, w: 0.991358}
+      scale: {x: 0.99999833, y: 1.0000007, z: 0.99999976}
+    - name: Me_levanto_tio:RightForeArm
+      parentName: Me_levanto_tio:RightArm
+      position: {x: -0.22812155, y: 0.000000035127194, z: -0.00000019833783}
+      rotation: {x: 0.0012997438, y: -0.04017385, z: 0.067549795, w: 0.9969059}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1.0000001}
+    - name: Me_levanto_tio:RightHand
+      parentName: Me_levanto_tio:RightForeArm
+      position: {x: -0.22055723, y: -0.000000006307306, z: 0.000000043194326}
+      rotation: {x: 0.0043685697, y: -0.033212647, z: -0.07095806, w: 0.99691665}
+      scale: {x: 0.9999997, y: 0.9999994, z: 0.9999991}
+    - name: Me_levanto_tio:RightFingerBase
+      parentName: Me_levanto_tio:RightHand
+      position: {x: -0.024492104, y: -0.00000011195977, z: 0.000000027873154}
+      rotation: {x: -2.3283059e-10, y: -0, z: -0.00000000361615, w: 1}
+      scale: {x: 1.0000004, y: 1, z: 0.9999997}
+    - name: Me_levanto_tio:RightHandMiddle1
+      parentName: Me_levanto_tio:RightFingerBase
+      position: {x: -0.07467177, y: 0.0017326192, z: -0.011860811}
+      rotation: {x: 0.006059282, y: -0.024151372, z: 0.0594894, w: 0.9979183}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000004}
+    - name: Me_levanto_tio:RightHandMiddle2
+      parentName: Me_levanto_tio:RightHandMiddle1
+      position: {x: -0.04930476, y: 0.0000000019143136, z: -0.000000017297081}
+      rotation: {x: 0.0005547865, y: 0.0027302688, z: 0.03857461, w: 0.99925184}
+      scale: {x: 0.99999976, y: 1.0000005, z: 1.0000006}
+    - name: Me_levanto_tio:RightHandMiddle3
+      parentName: Me_levanto_tio:RightHandMiddle2
+      position: {x: -0.028422443, y: 0.000000025297814, z: -0.00000000968268}
+      rotation: {x: -0.0017431283, y: -0.008175907, z: -0.029009376, w: 0.99954426}
+      scale: {x: 1.0000007, y: 0.99999994, z: 1.0000001}
+    - name: Me_levanto_tio:RightHandMiddle4
+      parentName: Me_levanto_tio:RightHandMiddle3
+      position: {x: -0.024316737, y: -0.00000004598565, z: 0.000000025967775}
+      rotation: {x: 0.09037086, y: 0.9955971, z: 0.0022499792, w: -0.024787556}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Me_levanto_tio:RightHandThumb1
+      parentName: Me_levanto_tio:RightFingerBase
+      position: {x: -0.008048166, y: -0.030482404, z: -0.02652846}
+      rotation: {x: 0.042974133, y: -0.43346742, z: 0.10081816, w: 0.8944803}
+      scale: {x: 1.0000007, y: 1.0000008, z: 1.0000007}
+    - name: Me_levanto_tio:RightHandThumb2
+      parentName: Me_levanto_tio:RightHandThumb1
+      position: {x: -0.02293781, y: 0.000000024384702, z: 0.000000034224584}
+      rotation: {x: 0.038893934, y: 0.031763192, z: -0.01851492, w: 0.99856675}
+      scale: {x: 0.9999994, y: 0.99999994, z: 1.0000005}
+    - name: Me_levanto_tio:RightHandThumb3
+      parentName: Me_levanto_tio:RightHandThumb2
+      position: {x: -0.034323916, y: 0.00000010214653, z: 0.000000047191246}
+      rotation: {x: 0.011326288, y: 0.013472379, z: 0.036526456, w: 0.99917775}
+      scale: {x: 1.0000006, y: 1.0000002, z: 1.0000004}
+    - name: Me_levanto_tio:RightHandThumb4
+      parentName: Me_levanto_tio:RightHandThumb3
+      position: {x: -0.03204249, y: -0.00000010628594, z: -0.00000010024471}
+      rotation: {x: 0.19858427, y: 0.9235095, z: 0.068989836, w: -0.3208349}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Me_levanto_tio:RightHandPinky1
+      parentName: Me_levanto_tio:RightFingerBase
+      position: {x: -0.06715493, y: -0.009206864, z: 0.0338183}
+      rotation: {x: 0.0044382624, y: -0.02736901, z: 0.06312334, w: 0.9976205}
+      scale: {x: 1.0000004, y: 1, z: 1.0000007}
+    - name: Me_levanto_tio:RightHandPinky2
+      parentName: Me_levanto_tio:RightHandPinky1
+      position: {x: -0.038843222, y: 9.717621e-10, z: -0.000000020940135}
+      rotation: {x: 0.005078544, y: 0.02089736, z: 0.034735627, w: 0.9991652}
+      scale: {x: 0.99999976, y: 1.0000004, z: 1}
+    - name: Me_levanto_tio:RightHandPinky3
+      parentName: Me_levanto_tio:RightHandPinky2
+      position: {x: -0.01868792, y: 0.000000007925487, z: -0.0000000019484578}
+      rotation: {x: 0.012016505, y: 0.038131967, z: -0.013085169, w: 0.99911475}
+      scale: {x: 1.0000006, y: 0.9999999, z: 1.0000002}
+    - name: Me_levanto_tio:RightHandPinky4
+      parentName: Me_levanto_tio:RightHandPinky3
+      position: {x: -0.019153992, y: 0.00000015297124, z: 0.0000000016375927}
+      rotation: {x: 0.08378453, y: 0.9952246, z: -0.004201337, w: 0.049905088}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Me_levanto_tio:RightHandIndex1
+      parentName: Me_levanto_tio:RightFingerBase
+      position: {x: -0.07703989, y: -0.005278835, z: -0.035641935}
+      rotation: {x: -0.001241933, y: -0.006449359, z: 0.051190116, w: 0.99866736}
+      scale: {x: 1.0000004, y: 1, z: 1.0000004}
+    - name: Me_levanto_tio:RightHandIndex2
+      parentName: Me_levanto_tio:RightHandIndex1
+      position: {x: -0.042507365, y: 0.00000005966545, z: 0.000000044739544}
+      rotation: {x: -0.00089270686, y: -0.007515709, z: 0.039404616, w: 0.99919474}
+      scale: {x: 1.0000006, y: 1.0000005, z: 1.0000004}
+    - name: Me_levanto_tio:RightHandIndex3
+      parentName: Me_levanto_tio:RightHandIndex2
+      position: {x: -0.022661073, y: 0.000000013153669, z: -0.000000009817866}
+      rotation: {x: 0.004855775, y: 0.0351378, z: 0.00064319087, w: 0.9993705}
+      scale: {x: 0.9999997, y: 0.9999997, z: 0.9999996}
+    - name: Me_levanto_tio:RightHandIndex4
+      parentName: Me_levanto_tio:RightHandIndex3
+      position: {x: -0.025739392, y: 0.000000012397815, z: -0.0000000062756382}
+      rotation: {x: 0.06892783, y: 0.99762166, z: -0.000010187909, w: 0.0001474539}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Me_levanto_tio:RightHandRing1
+      parentName: Me_levanto_tio:RightFingerBase
+      position: {x: -0.07228058, y: -0.0017325273, z: 0.011860854}
+      rotation: {x: 0.0042404328, y: -0.021964224, z: 0.059441075, w: 0.99798113}
+      scale: {x: 1.0000012, y: 1.000001, z: 1.0000008}
+    - name: Me_levanto_tio:RightHandRing2
+      parentName: Me_levanto_tio:RightHandRing1
+      position: {x: -0.04677592, y: -0.000000017771821, z: -0.000000026839107}
+      rotation: {x: -0.0016698131, y: -0.004145449, z: 0.039453093, w: 0.99921143}
+      scale: {x: 1.0000002, y: 1.0000002, z: 0.9999999}
+    - name: Me_levanto_tio:RightHandRing3
+      parentName: Me_levanto_tio:RightHandRing2
+      position: {x: -0.02624145, y: -0.00000007503492, z: 0.00000000209196}
+      rotation: {x: 0.016545389, y: 0.03880383, z: 0.012506577, w: 0.9990316}
+      scale: {x: 1.0000005, y: 1.0000006, z: 1.0000001}
+    - name: Me_levanto_tio:RightHandRing4
+      parentName: Me_levanto_tio:RightHandRing3
+      position: {x: -0.022676872, y: 0.00000011281033, z: -0.000000016592631}
+      rotation: {x: 0.15578634, y: 0.98750645, z: -0.0036930565, w: 0.023409735}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Me_levanto_tio:LeftShoulder
+      parentName: Me_levanto_tio:Spine2
+      position: {x: -0.22514413, y: 0.03109055, z: -0.08412855}
+      rotation: {x: -0.7640077, y: -0.63719356, z: -0.06294632, w: -0.07946263}
+      scale: {x: 1.0000004, y: 1.0000007, z: 0.9999999}
+    - name: Me_levanto_tio:LeftArm
+      parentName: Me_levanto_tio:LeftShoulder
+      position: {x: 0.16608547, y: 0.000003869897, z: -0.000000034298953}
+      rotation: {x: 0.0012820807, y: 0.03176997, z: -0.12725833, w: 0.99135983}
+      scale: {x: 0.99999905, y: 1.0000013, z: 1.0000017}
+    - name: Me_levanto_tio:LeftForeArm
+      parentName: Me_levanto_tio:LeftArm
+      position: {x: 0.22812238, y: -0.000006088065, z: -0.00000014460495}
+      rotation: {x: 0.0012997149, y: -0.040173844, z: 0.06754991, w: 0.996906}
+      scale: {x: 1.0000006, y: 1.0000005, z: 1.0000004}
+    - name: Me_levanto_tio:LeftHand
+      parentName: Me_levanto_tio:LeftForeArm
+      position: {x: 0.22055757, y: 0.000002776815, z: -6.1762574e-11}
+      rotation: {x: 0.004369077, y: -0.033212617, z: -0.070939735, w: 0.996918}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000001}
+    - name: Me_levanto_tio:LeftFingerBase
+      parentName: Me_levanto_tio:LeftHand
+      position: {x: 0.024492, y: 0.00000019913288, z: 0.000000049176112}
+      rotation: {x: 2.3283059e-10, y: 0.0000000037252894, z: -0.0000000045474726,
+        w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: Me_levanto_tio:LeftHandMiddle1
+      parentName: Me_levanto_tio:LeftFingerBase
+      position: {x: 0.07467163, y: -0.0017348205, z: 0.011860884}
+      rotation: {x: 0.006061919, y: -0.024158038, z: 0.05945843, w: 0.99792}
+      scale: {x: 0.9999998, y: 0.9999993, z: 1.0000004}
+    - name: Me_levanto_tio:LeftHandMiddle2
+      parentName: Me_levanto_tio:LeftHandMiddle1
+      position: {x: 0.04930554, y: 0.0000020887164, z: -0.000000044836984}
+      rotation: {x: 0.00055476365, y: 0.0027302613, z: 0.038574744, w: 0.9992519}
+      scale: {x: 1.0000002, y: 1.0000006, z: 1.0000005}
+    - name: Me_levanto_tio:LeftHandMiddle3
+      parentName: Me_levanto_tio:LeftHandMiddle2
+      position: {x: 0.028422372, y: -0.0000006321428, z: -0.0000000034156347}
+      rotation: {x: -0.0017431416, y: -0.008175883, z: -0.029009461, w: 0.9995442}
+      scale: {x: 1.0000001, y: 0.99999964, z: 1.0000008}
+    - name: Me_levanto_tio:LeftHandMiddle4
+      parentName: Me_levanto_tio:LeftHandMiddle3
+      position: {x: 0.024317354, y: 0.000001549608, z: -0.000000046517112}
+      rotation: {x: 0.09037086, y: 0.9955971, z: 0.0022499792, w: -0.024787556}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Me_levanto_tio:LeftHandThumb1
+      parentName: Me_levanto_tio:LeftFingerBase
+      position: {x: 0.008048749, y: 0.03048255, z: 0.026528291}
+      rotation: {x: 0.60209274, y: 0.37776816, z: 0.23524846, w: -0.66289794}
+      scale: {x: 0.99999994, y: 1.0000002, z: 0.9999999}
+    - name: Me_levanto_tio:LeftHandThumb2
+      parentName: Me_levanto_tio:LeftHandThumb1
+      position: {x: 0.02293848, y: 0.00000002984877, z: 0.0000017265032}
+      rotation: {x: 0.038895294, y: 0.018468268, z: 0.031755287, w: 0.9985679}
+      scale: {x: 1.0000011, y: 1.0000006, z: 1.0000006}
+    - name: Me_levanto_tio:LeftHandThumb3
+      parentName: Me_levanto_tio:LeftHandThumb2
+      position: {x: 0.034323487, y: -0.00000006322076, z: -0.0000016677706}
+      rotation: {x: 0.011325849, y: -0.036524344, z: 0.013476146, w: 0.9991777}
+      scale: {x: 1.0000008, y: 1.0000007, z: 1.0000002}
+    - name: Me_levanto_tio:LeftHandThumb4
+      parentName: Me_levanto_tio:LeftHandThumb3
+      position: {x: 0.03204149, y: -0.00000040658142, z: -0.0000009493779}
+      rotation: {x: -0.08644424, y: 0.6042366, z: 0.70180297, w: -0.36728486}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Me_levanto_tio:LeftHandPinky1
+      parentName: Me_levanto_tio:LeftFingerBase
+      position: {x: 0.06715438, y: 0.009210246, z: -0.0338183}
+      rotation: {x: 0.0044321553, y: -0.027360639, z: 0.06317395, w: 0.99761754}
+      scale: {x: 0.9999999, y: 0.99999934, z: 1.0000002}
+    - name: Me_levanto_tio:LeftHandPinky2
+      parentName: Me_levanto_tio:LeftHandPinky1
+      position: {x: 0.038842313, y: -0.000005132816, z: 0.000000025563876}
+      rotation: {x: 0.005079568, y: 0.020831613, z: 0.03455145, w: 0.99917287}
+      scale: {x: 1, y: 0.9999998, z: 0.99999976}
+    - name: Me_levanto_tio:LeftHandPinky3
+      parentName: Me_levanto_tio:LeftHandPinky2
+      position: {x: 0.01868952, y: 0.0000055666233, z: -0.00000004842751}
+      rotation: {x: 0.01201903, y: 0.03809372, z: -0.012993372, w: 0.9991174}
+      scale: {x: 1.0000004, y: 1.0000006, z: 1.0000001}
+    - name: Me_levanto_tio:LeftHandPinky4
+      parentName: Me_levanto_tio:LeftHandPinky3
+      position: {x: 0.019153008, y: -0.0000021404558, z: 0.0000000077932505}
+      rotation: {x: 0.08378453, y: 0.9952246, z: -0.004201337, w: 0.049905088}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Me_levanto_tio:LeftHandIndex1
+      parentName: Me_levanto_tio:LeftFingerBase
+      position: {x: 0.07703951, y: 0.0052823643, z: 0.035641916}
+      rotation: {x: -0.001248028, y: -0.0064325994, z: 0.051236045, w: 0.9986651}
+      scale: {x: 0.9999996, y: 0.99999905, z: 1.0000002}
+    - name: Me_levanto_tio:LeftHandIndex2
+      parentName: Me_levanto_tio:LeftHandIndex1
+      position: {x: 0.042506833, y: -0.0000058709597, z: 0.000000083791555}
+      rotation: {x: -0.0008926591, y: -0.007502339, z: 0.03928054, w: 0.9991997}
+      scale: {x: 1.0000006, y: 1.0000007, z: 1.0000001}
+    - name: Me_levanto_tio:LeftHandIndex3
+      parentName: Me_levanto_tio:LeftHandIndex2
+      position: {x: 0.022661636, y: 0.0000023442988, z: -0.000000023774534}
+      rotation: {x: 0.0048557147, y: 0.03513778, z: 0.000643108, w: 0.99937046}
+      scale: {x: 0.9999997, y: 0.99999976, z: 0.9999997}
+    - name: Me_levanto_tio:LeftHandIndex4
+      parentName: Me_levanto_tio:LeftHandIndex3
+      position: {x: 0.025739586, y: 0.00000009899491, z: 0.000000048085496}
+      rotation: {x: 0.06892783, y: 0.99762166, z: -0.000010187909, w: 0.0001474539}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Me_levanto_tio:LeftHandRing1
+      parentName: Me_levanto_tio:LeftFingerBase
+      position: {x: 0.072279416, y: 0.0017360562, z: -0.011860797}
+      rotation: {x: 0.004238389, y: -0.021963403, z: 0.05944918, w: 0.9979808}
+      scale: {x: 1, y: 0.99999994, z: 1.000001}
+    - name: Me_levanto_tio:LeftHandRing2
+      parentName: Me_levanto_tio:LeftHandRing1
+      position: {x: 0.046775714, y: -0.0000019336446, z: 0.000000041911925}
+      rotation: {x: -0.0016699847, y: -0.00414361, z: 0.039397206, w: 0.9992137}
+      scale: {x: 1.0000005, y: 0.99999994, z: 1.000001}
+    - name: Me_levanto_tio:LeftHandRing3
+      parentName: Me_levanto_tio:LeftHandRing2
+      position: {x: 0.026242385, y: 0.0000018285696, z: -0.000000051886044}
+      rotation: {x: 0.016545795, y: 0.038820904, z: 0.012526857, w: 0.99903065}
+      scale: {x: 0.9999996, y: 1.0000001, z: 0.9999993}
+    - name: Me_levanto_tio:LeftHandRing4
+      parentName: Me_levanto_tio:LeftHandRing3
+      position: {x: 0.022676183, y: -0.0000010164687, z: 0.000000025901008}
+      rotation: {x: 0.15578634, y: 0.98750645, z: -0.0036930565, w: 0.023409735}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Me_levanto_tio:RightUpLeg
+      parentName: Me_levanto_tio:Hips
+      position: {x: 0.07840006, y: -0.07493049, z: -0.031715184}
+      rotation: {x: 0.49140626, y: 0.5066027, z: 0.5084486, w: -0.493309}
+      scale: {x: 1.0000011, y: 1.0000017, z: 1.0000005}
+    - name: Me_levanto_tio:RightLeg
+      parentName: Me_levanto_tio:RightUpLeg
+      position: {x: -0.4161327, y: 0.00000024759493, z: -0.00000016928077}
+      rotation: {x: -0.00078213203, y: 0.02287702, z: 0.029354986, w: 0.9993069}
+      scale: {x: 1.0000005, y: 1.0000005, z: 0.99999976}
+    - name: Me_levanto_tio:RightFoot
+      parentName: Me_levanto_tio:RightLeg
+      position: {x: -0.42343414, y: -0.00000019471865, z: -0.00000013947152}
+      rotation: {x: -0.57975096, y: -0.3987817, z: -0.4188844, w: 0.57393193}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000006}
+    - name: Me_levanto_tio:RightToeBase
+      parentName: Me_levanto_tio:RightFoot
+      position: {x: -0.15694603, y: 0.0000000060285354, z: -0.0000000107555325}
+      rotation: {x: 0.00000011920926, y: -0.00000011920926, z: -0.060855225, w: 0.9981466}
+      scale: {x: 0.99999976, y: 1, z: 1}
+    - name: Me_levanto_tio:RightToeEnd
+      parentName: Me_levanto_tio:RightToeBase
+      position: {x: -0.07529929, y: 8.8817837e-17, z: 8.881784e-18}
+      rotation: {x: -0.093987, y: -0.7037973, z: -0.09320747, w: 0.69796}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Me_levanto_tio:LeftUpLeg
+      parentName: Me_levanto_tio:Hips
+      position: {x: -0.07840011, y: -0.074930474, z: -0.031715468}
+      rotation: {x: 0.49330887, y: 0.5084486, z: -0.50660276, w: 0.49140617}
+      scale: {x: 1.0000004, y: 1.0000008, z: 1.0000002}
+    - name: Me_levanto_tio:LeftLeg
+      parentName: Me_levanto_tio:LeftUpLeg
+      position: {x: 0.41613272, y: 0.00000035927434, z: 0.00000012724115}
+      rotation: {x: -0.00078217674, y: 0.022877065, z: 0.029355075, w: 0.9993069}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000011}
+    - name: Me_levanto_tio:LeftFoot
+      parentName: Me_levanto_tio:LeftLeg
+      position: {x: 0.42343426, y: 0.00000033441944, z: 0.00000019081573}
+      rotation: {x: 0.5797509, y: 0.39878166, z: 0.41888443, w: -0.573932}
+      scale: {x: 1.0000012, y: 1.0000019, z: 1.0000008}
+    - name: Me_levanto_tio:LeftToeBase
+      parentName: Me_levanto_tio:LeftFoot
+      position: {x: 0.15694599, y: 0.0000000015824165, z: 0.000000006897528}
+      rotation: {x: 0.000000089406946, y: -0.00000007450579, z: -0.060855165, w: 0.9981466}
+      scale: {x: 1.0000001, y: 1.0000006, z: 1.0000006}
+    - name: Me_levanto_tio:LeftToeEnd
+      parentName: Me_levanto_tio:LeftToeBase
+      position: {x: 0.075299196, y: 0.00000005729911, z: -0.000000054133643}
+      rotation: {x: -0.093987, y: -0.7037973, z: -0.09320747, w: 0.69796}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

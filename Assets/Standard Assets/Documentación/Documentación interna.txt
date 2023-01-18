@@ -1,0 +1,461 @@
+30/09/2022
+-Acabado de poner texturas al mapa
+-Parcheado bug iluminación global que parece un gusiluz
+
+23/09/2022
+-Añadido el mapa a medias
+-Añadido el rollo del cristal que hace cosas cuando le disparas
+-Arreglado bug drops traspasan el suelo
+-Optimizado los drops
+-Los cristales ahora si se quedan medio afuera no se muestra el sprite
+
+12/09/2022
+-Añadidos todos los pickups del suelo
+
+09/09/2022
+-Añadido blood splatter
+-Cambiado sonido de recogida de pickups
+-Arreglado bug escopeta que a veces no dispara el gancho
+
+08/09/2022
+-Añadidos pickups de suelo
+
+07/09/2022
+-Los enemigos tienen sonidos de muerte
+-El cyborg ahora carga antes de lanzar bolas de fuego
+
+05/09/2022
+-Añadido sistema de guardado
+-Arreglado bug de cambio de resolución al entrar al menú
+
+02/09/2022
+-Ahora el cyborg es pirómano
+-Añadido disparo predictivo al cyborg culero
+
+01/09/2022
+-Añadido selector de dificultad
+
+27/08/2022
+-Hecho sistema de añadir slots al ranking
+
+25/08/2022
+-Añadido todos los sonidos de recarga
+-Cyborg ahora sólo corre
+
+22/08/2022
+-Añadido bunnyhop
+-Ahora la escoputa tiene sonido de recarga
+
+19/08/2022
+-Hecho todo el puto sistema de las cadenitas de los cojones
+
+17/08/2022
+-Añadido cooldown y cambiado el input al botón del medio del gancho
+
+16/08/2022
+-Hecho sistema de gancho de movimiento y desaceleración
+
+14/08/2022
+-Ahora las balas proyectil irán al puto medio
+
+02/08/2022
+-Hechas las putas transiciones del juego al menú y al revés
+-Arreglado bug bola energía se iba a la mierda con colisiones cerradas
+
+01/08/2022
+-Añadida transición de audio desde el juego al menú principal
+
+30/07/2022
+-Bajado fixed time step a 70/s
+-Cambiado movimiento de balas por raycast y tp
+-Arreglado bug del input field del menú que hacia eeeeeeeeh y no salía del armario
+
+22/07/2022
+-Añadido todos los putos faders de finalizar el nivel
+
+18/07/2022
+-El menú de pausa ya no se ve como si tuviera cáncer sexual
+-También tiene transiciónes entre las cosas esas
+
+16/07/2022
+-Añadida transición de todos los putos audiosources al pausar y reanudar
+
+15/07/2022
+-Añadido menú de pausa
+
+14/07/2022
+-Añadido sonido al impactar flechas
+-Cambiado icono del cooldown ballesta
+-Cambiado pickup verde pa contener la ballesta
+
+13/07/2022
+-Añadido flecha al impactar
+-Desaparece flecha y aparece gay
+-Ballesta explosiva con neon homosexual
+
+12/07/2022
+-Disparo secundario de la ballesta funcional
+
+11/07/2022
+-Añadida la ballesta a medias que puto asco tronco
+
+10/07/2022
+-Cambiada algolosaaaahdonde imagen a la del doom eternal
+
+09/07/2022
+-Añadida animación de muerte
+-Añadido momentum en la animación de muerte con una transición suave hacia la nada FFFUUUUUAAAAAAAAAAA
+
+08/07/2022
+-Hecha estructura del mapa
+-Hechos ajustes de daño en diferentes armas culeras
+
+07/07/2022
+-Ahora las balas de plasma y las bolas de energia no son una puta mierda
+-Cambiado sistema de strafing, ahora en vez de activar el multistraf si la dist. > 0.5, se activa si el eje es contrario a la entrada
+
+06/07/2022
+-Ahora los putos enemigos normales tienen destello al disparar y las balas ya no son dildos rojos
+-Añadido 2 nuevos tipos de puntos
+-Arreglado "bug" de puntos que daban mas de lo que debian porque un subnormal decidió que era buena idea
+
+16/06/2022
+-Añadido aceleración de movimiento y counterstrafing
+
+16/03/2022
+-Arregladas cosas varias
+-Ahora los putos enemigos dropean vida al palmarla cuando tienes <25 de vidahomosexual
+
+14/03/2022
+-Nerfeada la distancia de la escoputa
+-Ahora los putos enemigos normales hacen daño a melee
+
+12/03/2022
+-Ahora spawnean las mierdas esas al matar cosas
+
+11/03/2022
+-Añadido sistema para recoger munición y vida
+-Añadido sistema para ver en interfaz el incremento de vida recogida
+
+10/03/2022
+-Modelado y texturizado cosas que salen de los enemigos al palmar de munición y vida
+
+15/12/2021
+-Arreglado bug del menú al cambiar ventana se bugean las opciones pos ya no
+
+08/12/2021
+-Desbloqueo nivel 2 con desfibrilador
+-Cambiado el sonido de disparo de la metralleta pero puede que vuelva a cambiar porque me da sida
+
+05/12/2021
+-Añadida lista de controles
+
+03/12/2021
+-Añadida nueva UI a la vida y tocado un poco la de la munición
+
+02/12/2021
+-Arreglado sistema de angulos de disparo
+-Le he metido un fader to wapo a la UI de la espada
+
+01/12/2021
+-Añadido nuevo spawner con rondas
+-Cambiado el estado chase del cyborg a uno que no es una mierda
+
+26/11/2021
+-Acabado el putísimo menú de opciones de los putísimos cojones de mierda aunque al cambiar de ventana se medio buguea pero ESTOY HASTA LOS COJONES QUE LE DEN POR EL PUTO CULO
+
+24/11/2021
+-Añadida la mierda de los desbloqueos
+
+22/11/2021
+-Acabada la puta sección de stats y ponido transiciones wapas a la info
+
+20/11/2021
+-Acabada la puta info de los enemigos y armas de mierda pero falta poner texto de relleno de mierda
+
+19/11/2021
+-Añadido los 2 minijuegos
+-Configurado la puta info de los enemigos de mierda
+
+18/11/2021
+-Hecho el script de transición de textos con sonidos y mierdas
+
+17/11/2021
+-Hecha escena del menú inicial
+
+13/11/2021
+-Añadido damages melee al cyborg de mierda
+-Cerrado un poco el enemigo y demás mierdas
+-Añadido partículas y sonidos de explosión
+
+12/11/2021
+-Configurado a medias la IA del cyborg
+
+11/11/2021
+-Puestas animaciones nuevas al cyborg, quizás no todas pero mira tio, sopla la moneda! *La sopla* PUES A TOMAR POR CULO LA MONEDA! *La manda a tomar por culo*
+
+10/11/2021
+-Configurado enemigo rusheador
+-Arreglada lo de la sangre en las anims que va por anims pos boom cuando el rig está escrito de otra forma me jodo pos ahora está por script
+
+05/11/2021
+-Acabada toda la puta IA del ninja de mierda y configurado casi del todo, sólo falta añadir detalles de sonido y cosas de esas
+
+31/10/2021
+-Añadido ninja y configurado para que haga parrys y tal con su resistencia
+-Añadido lo de los pesos de los layers en el animator para que se muevan los brasitos chingones de forma independiente
+
+18/10/2021
+-Todas las putas animaciones tienen puta sangre de mierda
+-Ahora al reinstanciarse el FPC la munición sigue siendo la misma
+-Cambiada UI munición
+
+17/10/2021
+-Todas las putas animaciones tienen putos sonidos de mierda
+
+15/10/2021
+-Añadida primera animación trasera aérea
+
+13/10/2021
+-Añadida primera animación trasera
+-Añadida primera animación frontal aérea
+
+12/10/2021
+-Añadida tercera animación frontal
+
+11/10/2021
+-Añadida segunda animación frontal
+
+09/10/2021
+-Cambiada UI armas y forma en la que sale el sonido al hacer dash y cosas que ahora sale de un prefab
+
+08/10/2021
+-Añadida UI cooldown armas
+
+07/10/2021
+-Añadida animación frontal
+
+06/10/2021
+-Añadida UI espada de recargas
+-Añadido ataque normal con espada
+
+05/10/2021
+-Arreglada animación 2 de frontal de espada
+-Añadidas 2 animaciones más de espada
+
+02/10/2021
+-Añadido ejecuciones con espada del olimpo
+-Añadí la espada del olimpo dos días antes o algo así con sus rayitos chingones y su trail mmmmmmm yeah
+-Hecha animación frontal de espada
+
+27/09/2021
+-Añadido círculo en la cabeza de los enemigos al estar stunneados
+
+25/09/2021
+-Añadido desfibrilador
+
+23/09/2021
+-Añadido sistema de melee (otra vez joder)
+
+20/09/2021
+-Añadido sistema puntuación de tipos pero faltan retoques gays pero la base ya está joder
+
+17/09/2021
+-Añadido sistema puntuación de multiplicar pollas a medias
+
+11/07/2021
+-Añadido rifle
+-Añadido railgun como disparo secundario
+
+09/07/2021
+-Añadido desde hace unos días el subfusil de plasma y configurado con cosas
+
+04/07/2021
+-Ahora se pueden cambiar los slots de las armas de sitio o eso te hago pensar ª
+
+02/07/2021
+-Añadido pistolas duales tipo 2
+
+29/06/2021
+-Añadido habilidades especiales para la pistola
+-Añadido habilidades especiales para el rifle
+-Añadido pistolas duales a medias
+
+27/06/2021
+-Creo que arreglado bug que al reinstanciar al fpc se quedaba pillao en el suelo y no dejaba saltar, he bajado a 0.05 el step offset del character controller de mierda y por el momento parece que funca pero no me sorprendería que la siguiente entrada sea rollo pos creo que ya he arreglao el sistema de ejecuciones lel.
+-Ahora los enemigos tienen un estado en el cual están stunneaos
+
+26/06/2021
+-Las balas de la pilstola ahora salen encaradas hacia el enemigo después de un rebote
+-Creo que ahora sí que está arreglado el tema de que no estaba bien encarado a veces el FPC con el enemigo, en vez de hacer offset según la pos del enemigo ahora le meto un offset directo a la rotación
+
+25/06/2021
+-Ahora los enemigos se mueren en forma de ragdoll y según dónde venga el último disparo se impulsará diferente
+
+10/06/2021
+-Arreglado bug camara de ejecución que hacia tirabuzones infinitos, ahora se usa Quaternion.RotateTowards
+
+07/06/2021
+-Cambiado sistema de ejecución a enemigos de raycast a ser visible en cámara y configurado el rollo de seleccionar animaciones
+
+31/03/2021
+-Añadido dash
+-Añadido railgun como disparo secundario
+-Ahora los enemigos pueden implosionar
+
+30/03/2021
+-Añadido salto
+
+20/03/2021
+-Acabado compra automática teletienda
+
+17/03/2021
+-Añadido a medias compra automática teletienda
+
+5/03/2021
+-Hecho a medias el este de la configuración de grabar
+
+4/03/2021
+-Creada interfaz gestión comida
+
+2/03/2021
+-Horas pa jugar juegos ahora afectan a las horas jugadas
+
+27/02/2021
+-Añadido lo de horas pa jugar a los juegos
+
+24/02/2021
+-Arreglado bug detectador disparo, lo de la rueda esa de mierda con los angulos
+
+9/12/2020
+-Lo hice antes pero ya está acabao todo el rollo de los gráficos 2D y polladas
+-Corregido bug no daba dinero porque el subnormal del pasado lo redondeó al nerest int y nunca tienes decimales ginius
+
+9/12/2020
+-Acabada segunda pajína del mercado homosexual
+-Añadidas las rebajas de STIM
+
+7/12/2020
+-Acabado primera parte del mercado
+-Acabado menú de info
+-Acabado mis coj... el sistema que hace que se resten objetos al cambiar de semana
+
+5/12/2020
+-Agregado HUD en el centro de la pantalla que indica el angulo del enemigo al recibir un disparo
+
+23/10/2020
+-Configurado menú de soundtracks y stats de últimos vidéos
+
+18/10/2020
+-Configurado todo el rollo de morir y resetear
+
+17/10/2020
+-Configurado todo el rollo de los asaltos
+-Sincronizada la musica con los asaltos
+-Puesto lo de los objetivos
+
+11/10/2020
+-Agregados npc y configurados
+-Configurados coches animaciones y spawners mierdas
+
+9/10/2020
+-Hecho todo el rollo de pillar munición y tal
+-Ahora ves en el hud la munición y mierdas
+
+4/10/2020
+-Agregado taladro desde hace ya diitas
+-Puedes agarrar y follar, digo tirar bolsas
+-Ahora el taladro se rompe como tu corazón cuando ella te rechazó
+
+27/09/2020
+-Calculada distancia lineal a la que agrandar cosas con la distancia y mierdas de esas
+-Añadido shader bastante feo pero suficientemente bueno aunque da asco para ver a través de la pared cosas
+-Añadido lo de manten E para hacer cosas y sale circulo que gira y pasan cosas
+
+22/09/2020
+-Organizada la IA por escuadrones y tal
+
+21/09/2020
+-Adaptado sistema tirarse paloslaos con lanzagranadas
+-Arreglado bug ragdoll atraviesa el suelo con la explosión
+
+19/09/2020
+-Hey he volvido jiji
+-Añadido desde hace ya como una semana el lanzagranadas y ya está configurado y los rigidbodies también
+-Añadido script municiónwena que es la wena a usar
+
+26/03/2020
+-Arreglado bug te agachas y disparas a traves de las putas paredes lol
+-Añadida colisión al puto mapa
+-Añadido el puto cristal que se rompe con sonido homosexual
+
+22/03/2020
+-Añadido mapa y de momento faltan más materiales por retocar y polladas de esas
+
+19/03/2020
+-Acabado sistema de curación y tal lo de las animaciones lo hice antes pero yokse da palo escribir esta puta mierda
+-Los enemigos no te pueden disparar mientras te levantas de esa puta animacion gay y mientras estas en la transición de ostias
+
+14/03/2020
+-Añadida animación de ostias al enemigo tocho y configurada también
+-Puto bug de sonido de mierda que me tiene hasta los cojones
+-Configurado enemigo normal y eso que es solo mover scripts dun lao paotro
+
+1/03/2020
+-Configurada IA SPORTS del tio que te rushea cuando te sale del nabo, campea la zona y cuando diga pues BUM! Y TE REVIENTA EL CULO
+-Configurada tambien la IEISPORTS del tio campeando solo era cambiar condiciones de cambio de estado y poca cosa más ejejjeje pollasentuboca
+
+27/02/2020
+-Acabadas animaciones melee, igual hago las de la camara o igual no jejejejputa
+-Arreglado bug enemigo te sigue estando muerto y eso desactivas el meshagent y sulusionau y el del arma tambien k al disparar mantienes pulsao y no se mueve el bobber de mierda
+
+25/02/2020
+-Ahora le puedes inflar a balazos los muertos que sangran como cerdas
+-Ahora le puedes meter críticos si le metes balazos en la puta cara
+-Corregido? bug de mierda que el enemigo en las animaciones hace saltitos cuando le metes un balazo, lo he puesto en unscaled time el animator y las propiedades de las animaciones le he descheckado el este del eje Y
+
+24/02/2020
+-Pos no me acuerdo que hice aquí, creo que pulí lo del melee y algo de eso
+
+17/02/2020
+-Arreglado bug ametralladora-gay que al disparar y mantener pulsado y luego pulsar el este de apuntar pos no apunta y le he metido un Vector3.zero y creo que yasta juder
+-Acabada la parte de scripts pa que se realice el melee
+
+16/02/2020
+-Añadido controller del animator con las animaciones pal enemigo y a medio hacer
+
+15/02/2020
+-Ahora puedo puto stunear a los enemigos stuneables y eso
+-Si no miro al enemigo su barra de salud y stun se van a la puta
+-Medio arreglado bug de reinstanciación FPC torcido
+
+14/02/2020
+-Añadida barra de salud y stun al enemigo junto a sus putas configuraciones en el script de la vida gay
+
+13/02/2020
+-Añadido burst fire al enemigo
+-Añadido tiempo de reacción al salir de una esquina y al encontrarte mientras patrulla
+
+10/02/2020
+-Cambiado el script de movimiento muevo por uno de por ahí xq al moverse palante y lateral corría más y ahora uso normalizeds con retoques en el imputmanager y parece que va bien yokse
+-He seguido trasteando con la cosa esta y es una puta mierda lo del normalizar vectores me tiene hasta la polla y hace que se mueva el doble de lento y lo he acabado poniendo en getaxisraw a chuparla
+
+08/02/2020
+-Añadido el navmesh agent de los cojones al enemigo
+-Arreglado bug smooth damp que no funciona con timedeltatime
+-Arreglado bug que la precisión del enemigo no funcionaba
+-Creo que he arreglado lo de que las balas se van para atrás poniendo la "precisión" que es desviación pero weno, a 0.03
+
+07/02/2020
+-Arreglado el bug de que el arma está rotada hacia abajo cuando te tiras, la cosa pillaba la posición del arma de la animación y eso que gg. He puesto el 0.0.0 en rotación y posición y a chuparla
+
+06/02/2020
+-Añadida desviación del disparo a la IA SPORTS, CHUDIGEIN!
+-Si el enemigo chingón no encuentra tu cuerpo chingón, te apuntará en la puta cara
+
+02/02/2020
+-Empiezo tarde a escribir esta puta mierda pero yo k se aber cuanto tiemo lo sigo
+-Me he peleao con los raycast de mierda y los ignore layers de los cojones pero ya esta mis disparos no colisionan con los del puto enemigo de mierda
+-Retocado cuando el enemigo pasa de atack a chase, resulta que cambiaba a patrol bicos of lles y si da problemas algun día pues será eso
+-Alargado la superfície de contacto de la bala enemiga, a 350 de velocidad no funciona mal del todo
+-He puesto un cuerpo pa que reciba balas en el pechito cuando me disparen, que es solo un cubo de mierda pero es un cuerpo chingón

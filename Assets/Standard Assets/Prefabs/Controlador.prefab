@@ -1,0 +1,196 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1381072200772608
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4979637401900426}
+  - component: {fileID: 439595231558450910}
+  - component: {fileID: 114805598313507212}
+  - component: {fileID: 114259150610339158}
+  - component: {fileID: 114749278416636156}
+  - component: {fileID: 114377164338152252}
+  - component: {fileID: 114876500906934510}
+  - component: {fileID: 65342755859308662}
+  m_Layer: 0
+  m_Name: Controlador
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 9
+  m_IsActive: 1
+--- !u!4 &4979637401900426
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1381072200772608}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 27.588886, y: -7.0728874, z: 21.443901}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &439595231558450910
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1381072200772608}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2aadfd0f8a19a8e4eb30074484fa2456, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  desfvel: 0.064
+  objetos: 
+  precios: []
+  habitosint: 
+  habman: 
+  pccalidad: 
+  pctexto: []
+  pcprecios: []
+  pcdisp: 
+  pcselec: 
+  pcafect: 
+  pcdesc: 
+  pcfinal: []
+  valoracion: 0
+  listauto: []
+  listastats:
+  - Texto: Willyrex
+    Putos: 192000
+  - Texto: Willy rex
+    Putos: 187000
+  - Texto: Willfredorex
+    Putos: 183000
+  - Texto: Guilirecs
+    Putos: 170000
+  - Texto: MadreMiaWilly
+    Putos: 150000
+  - Texto: WillyTioKPro
+    Putos: 120000
+  - Texto: WillRex
+    Putos: 100000
+  - Texto: Rexwilly
+    Putos: 90000
+  - Texto: WillmanRex
+    Putos: 80000
+  - Texto: OhSiWilly
+    Putos: 75000
+  moridor: {fileID: 1406536760004760, guid: b7299d9cb686c5e47ba1233fddd52bf7, type: 3}
+  posranking: 69
+--- !u!114 &114805598313507212
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1381072200772608}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c5e44ee0a286ec47bb630e6510a89c4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &114259150610339158
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1381072200772608}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 146e25a90ab1adc4db2ae01b725bdbd8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &114749278416636156
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1381072200772608}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d134b2e0b6e6c0345926366550654e93, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &114377164338152252
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1381072200772608}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26909484c583817448709eefccc7273b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nSalud: 100
+  Score: 0
+  nEnemiesKilled: 0
+  munact: {fileID: 0}
+  muntot: {fileID: 0}
+  numLevels: 2
+  currentLevel: 1
+  volumen: 0
+  sensibilidad: 1
+--- !u!114 &114876500906934510
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1381072200772608}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca40d4e98acec8d43a065c83ba77f131, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damageputoarma1: 15
+  damageputoarma2: 30
+  damageputoarma3: 24
+  damageputoarma4: 40
+  stunputoarma1: 30
+  stunputoarma2: 70
+  stunputoarma3: 28
+  stunputoarma4: 80
+  criticoputoarma1: 1.4
+  criticoputoarma2: 1.4
+  criticoputoarma3: 3.5
+  tiempogay: 1
+  cooldown1: 2
+  cooldown2: 1
+  cooldown3: 1
+  cooldown4: 0
+  cooldown5: 0
+  "enemigoda\xF1o": []
+  armaskit: 
+  armaskitorig: 
+  armaslot: 0
+  listagay: []
+  listagay2: []
+  nivelesextra: []
+--- !u!65 &65342755859308662
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1381072200772608}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}

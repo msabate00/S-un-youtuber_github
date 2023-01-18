@@ -1,0 +1,481 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1995193109065136
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4387484843781198}
+  - component: {fileID: 9177986438910065368}
+  - component: {fileID: 114993469636529180}
+  - component: {fileID: 114933376706488980}
+  - component: {fileID: 114065496461148724}
+  - component: {fileID: 114388031387672680}
+  - component: {fileID: 114511194434721270}
+  - component: {fileID: 114267778227442644}
+  - component: {fileID: 114943510834891170}
+  - component: {fileID: 82904212529208608}
+  - component: {fileID: 114984123059682374}
+  m_Layer: 0
+  m_Name: Controlador
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 9
+  m_IsActive: 1
+--- !u!4 &4387484843781198
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1995193109065136}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 27.588886, y: -7.0728874, z: 21.443901}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &9177986438910065368
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1995193109065136}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2aadfd0f8a19a8e4eb30074484fa2456, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  desfvel: 0.064
+  objetos: 
+  precios: []
+  habitosint: 
+  habman: 
+  pccalidad: 
+  pctexto: []
+  pcprecios: []
+  pcdisp: 
+  pcselec: 
+  pcafect: 
+  pcdesc: 
+  pcfinal: []
+  valoracion: 0
+  listauto: []
+  listastats:
+  - Texto: Willyrex
+    Putos: 4020000
+  - Texto: Willy rex
+    Putos: 3470000
+  - Texto: Willfredorex
+    Putos: 2830000
+  - Texto: Guilirecs
+    Putos: 2400000
+  - Texto: MadreMiaWilly
+    Putos: 1800000
+  - Texto: WillyTioKPro
+    Putos: 1500000
+  - Texto: WillRex
+    Putos: 1300000
+  - Texto: Rexwilly
+    Putos: 1100000
+  - Texto: WillmanRex
+    Putos: 850000
+  - Texto: OhSiWilly
+    Putos: 720000
+  moridor: {fileID: 1406536760004760, guid: b7299d9cb686c5e47ba1233fddd52bf7, type: 3}
+  posranking: 69
+--- !u!114 &114993469636529180
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1995193109065136}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c5e44ee0a286ec47bb630e6510a89c4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &114933376706488980
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1995193109065136}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 146e25a90ab1adc4db2ae01b725bdbd8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &114065496461148724
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1995193109065136}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d134b2e0b6e6c0345926366550654e93, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &114388031387672680
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1995193109065136}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26909484c583817448709eefccc7273b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nSalud: 100
+  Score: 0
+  nEnemiesKilled: 0
+  munact: {fileID: 0}
+  muntot: {fileID: 0}
+  numLevels: 2
+  currentLevel: 1
+  volumen: 0
+  sensibilidad: 1
+--- !u!114 &114511194434721270
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1995193109065136}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec87e4d6030b4d14086a93ca623472cf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activao: 1
+--- !u!114 &114267778227442644
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1995193109065136}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca40d4e98acec8d43a065c83ba77f131, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damageputoarma1: 15
+  damageputoarma2: 30
+  damageputoarma3: 24
+  damageputoarma4: 40
+  stunputoarma1: 30
+  stunputoarma2: 70
+  stunputoarma3: 28
+  stunputoarma4: 80
+  criticoputoarma1: 1.4
+  criticoputoarma2: 1.4
+  criticoputoarma3: 4.5
+  tiempogay: 1
+  cooldown1: 30
+  cooldown2: 20
+  cooldown3: 14
+  cooldown4: 25
+  cooldown5: 3
+  "enemigoda\xF1o":
+  - 3
+  - 5
+  - 10
+  - 20
+  - 22
+  - 20
+  - 12
+  - 8
+  - 25
+  - 14
+  - 7
+  armaskit: 0400000002000000
+  armaskitorig: 
+  armaslot: 0
+  listagay:
+  - Nombre: Pistola
+    Damage: 10
+    Stun: 70
+    CargadoresAct: 30
+    BalasAct: 10
+    BalasActArma2: 0
+    Critico: 0
+    Desbloqueo: 0
+  - Nombre: Subfusil
+    Damage: 30
+    Stun: 20
+    CargadoresAct: 120
+    BalasAct: 30
+    BalasActArma2: 0
+    Critico: 0
+    Desbloqueo: 0
+  - Nombre: Escopeta
+    Damage: 23
+    Stun: 11
+    CargadoresAct: 24
+    BalasAct: 2
+    BalasActArma2: 0
+    Critico: 2.4
+    Desbloqueo: 0
+  - Nombre: Lanzagranadas
+    Damage: 320
+    Stun: 400
+    CargadoresAct: 4
+    BalasAct: 2
+    BalasActArma2: 0
+    Critico: 1
+    Desbloqueo: 300000
+  - Nombre: DeagleDual
+    Damage: 18
+    Stun: 21
+    CargadoresAct: 100
+    BalasAct: 20
+    BalasActArma2: 20
+    Critico: 1.5
+    Desbloqueo: 0
+  - Nombre: Plasma
+    Damage: 13
+    Stun: 14
+    CargadoresAct: 0
+    BalasAct: 170
+    BalasActArma2: 0
+    Critico: 1.4
+    Desbloqueo: 10000000
+  - Nombre: RifleBallesta
+    Damage: 15
+    Stun: 18
+    CargadoresAct: 0
+    BalasAct: 150
+    BalasActArma2: 0
+    Critico: 1.7
+    Desbloqueo: 2000000
+  - Nombre: Mustang
+    Damage: 34
+    Stun: 38
+    CargadoresAct: 60
+    BalasAct: 7
+    BalasActArma2: 7
+    Critico: 1
+    Desbloqueo: 15000000
+  - Nombre: Ballesta
+    Damage: 150
+    Stun: 80
+    CargadoresAct: 15
+    BalasAct: 1
+    BalasActArma2: 0
+    Critico: 3.3
+    Desbloqueo: 20000000
+  listagay2:
+  - Nombre: 
+    Damage: 0
+    Stun: 0
+    CargadoresAct: 0
+    BalasAct: 0
+    BalasActArma2: 0
+    Critico: 0
+    Desbloqueo: 0
+  - Nombre: 
+    Damage: 0
+    Stun: 0
+    CargadoresAct: 0
+    BalasAct: 0
+    BalasActArma2: 0
+    Critico: 0
+    Desbloqueo: 0
+  - Nombre: 
+    Damage: 0
+    Stun: 0
+    CargadoresAct: 0
+    BalasAct: 0
+    BalasActArma2: 0
+    Critico: 0
+    Desbloqueo: 0
+  - Nombre: 
+    Damage: 0
+    Stun: 0
+    CargadoresAct: 0
+    BalasAct: 0
+    BalasActArma2: 0
+    Critico: 0
+    Desbloqueo: 0
+  - Nombre: 
+    Damage: 0
+    Stun: 0
+    CargadoresAct: 0
+    BalasAct: 0
+    BalasActArma2: 0
+    Critico: 0
+    Desbloqueo: 0
+  - Nombre: 
+    Damage: 0
+    Stun: 0
+    CargadoresAct: 0
+    BalasAct: 0
+    BalasActArma2: 0
+    Critico: 0
+    Desbloqueo: 0
+  - Nombre: 
+    Damage: 0
+    Stun: 0
+    CargadoresAct: 0
+    BalasAct: 0
+    BalasActArma2: 0
+    Critico: 0
+    Desbloqueo: 0
+  - Nombre: 
+    Damage: 0
+    Stun: 0
+    CargadoresAct: 0
+    BalasAct: 0
+    BalasActArma2: 0
+    Critico: 0
+    Desbloqueo: 0
+  - Nombre: 
+    Damage: 0
+    Stun: 0
+    CargadoresAct: 0
+    BalasAct: 0
+    BalasActArma2: 0
+    Critico: 0
+    Desbloqueo: 0
+  nivelesextra:
+  - 40000000
+  - 30000000
+--- !u!114 &114943510834891170
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1995193109065136}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec87e4d6030b4d14086a93ca623472cf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activao: 1
+--- !u!82 &82904212529208608
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1995193109065136}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 11a32f5658b280442b175584fd00d519, type: 3}
+  m_PlayOnAwake: 0
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 1
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!114 &114984123059682374
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1995193109065136}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c316cf5b459cec7499a19fb2135d22e1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  musica: 1
+  menu: 0
+  menubotonesmierda: 0
+  ultima: {fileID: 0}

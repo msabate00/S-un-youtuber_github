@@ -1,0 +1,391 @@
+fileFormatVersion: 2
+guid: c89c83b7e55e55d41ab38c2404f93f9c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: JUICE_1_Brique2_base_bouchon
+    100002: JUICE_1_Brique2_base_bouchon1
+    100004: JUICE_1_Brique2_base_bouchon1_Couvercle_16
+    100006: JUICE_1_Brique2_base_bouchon1_Couvercle_26
+    100008: JUICE_1_Brique2_base_bouchon_Couvercle_18
+    100010: JUICE_1_Brique2_base_bouchon_Couvercle_27
+    100012: JUICE_1_Brique2_bouchon
+    100014: JUICE_1_Brique2_bouchon_Couvercle_17
+    100016: JUICE_1_Brique2_bouchon_Couvercle_28
+    100018: JUICE_1_Brique2_pack_Cube1
+    100020: JUICE_2_Brique_base_bouchon3
+    100022: JUICE_2_Brique_base_bouchon3_Couvercle_13
+    100024: JUICE_2_Brique_base_bouchon3_Couvercle_24
+    100026: JUICE_2_Brique_base_bouchon5
+    100028: JUICE_2_Brique_base_bouchon5_Couvercle_12
+    100030: JUICE_2_Brique_base_bouchon5_Couvercle_22
+    100032: JUICE_2_Brique_bouchon2
+    100034: JUICE_2_Brique_bouchon2_Couvercle_1
+    100036: JUICE_2_Brique_bouchon2_Couvercle_21
+    100038: JUICE_2_Brique_pack1_Cube
+    100040: JUICE_Brique1_base_bouchon2
+    100042: JUICE_Brique1_base_bouchon2_Couvercle_14
+    100044: JUICE_Brique1_base_bouchon2_Couvercle_23
+    100046: JUICE_Brique1_base_bouchon4
+    100048: JUICE_Brique1_base_bouchon4_Couvercle_11
+    100050: JUICE_Brique1_base_bouchon4_Couvercle_2
+    100052: JUICE_Brique1_bouchon1
+    100054: JUICE_Brique1_bouchon1_Couvercle_15
+    100056: JUICE_Brique1_bouchon1_Couvercle_25
+    100058: JUICE_Brique1_pack2_Cube2
+    100060: //RootNode
+    400000: JUICE_1_Brique2_base_bouchon
+    400002: JUICE_1_Brique2_base_bouchon1
+    400004: JUICE_1_Brique2_base_bouchon1_Couvercle_16
+    400006: JUICE_1_Brique2_base_bouchon1_Couvercle_26
+    400008: JUICE_1_Brique2_base_bouchon_Couvercle_18
+    400010: JUICE_1_Brique2_base_bouchon_Couvercle_27
+    400012: JUICE_1_Brique2_bouchon
+    400014: JUICE_1_Brique2_bouchon_Couvercle_17
+    400016: JUICE_1_Brique2_bouchon_Couvercle_28
+    400018: JUICE_1_Brique2_pack_Cube1
+    400020: JUICE_2_Brique_base_bouchon3
+    400022: JUICE_2_Brique_base_bouchon3_Couvercle_13
+    400024: JUICE_2_Brique_base_bouchon3_Couvercle_24
+    400026: JUICE_2_Brique_base_bouchon5
+    400028: JUICE_2_Brique_base_bouchon5_Couvercle_12
+    400030: JUICE_2_Brique_base_bouchon5_Couvercle_22
+    400032: JUICE_2_Brique_bouchon2
+    400034: JUICE_2_Brique_bouchon2_Couvercle_1
+    400036: JUICE_2_Brique_bouchon2_Couvercle_21
+    400038: JUICE_2_Brique_pack1_Cube
+    400040: JUICE_Brique1_base_bouchon2
+    400042: JUICE_Brique1_base_bouchon2_Couvercle_14
+    400044: JUICE_Brique1_base_bouchon2_Couvercle_23
+    400046: JUICE_Brique1_base_bouchon4
+    400048: JUICE_Brique1_base_bouchon4_Couvercle_11
+    400050: JUICE_Brique1_base_bouchon4_Couvercle_2
+    400052: JUICE_Brique1_bouchon1
+    400054: JUICE_Brique1_bouchon1_Couvercle_15
+    400056: JUICE_Brique1_bouchon1_Couvercle_25
+    400058: JUICE_Brique1_pack2_Cube2
+    400060: //RootNode
+    2300000: JUICE_1_Brique2_base_bouchon
+    2300002: JUICE_1_Brique2_base_bouchon1
+    2300004: JUICE_1_Brique2_base_bouchon1_Couvercle_16
+    2300006: JUICE_1_Brique2_base_bouchon1_Couvercle_26
+    2300008: JUICE_1_Brique2_base_bouchon_Couvercle_18
+    2300010: JUICE_1_Brique2_base_bouchon_Couvercle_27
+    2300012: JUICE_1_Brique2_bouchon
+    2300014: JUICE_1_Brique2_bouchon_Couvercle_17
+    2300016: JUICE_1_Brique2_bouchon_Couvercle_28
+    2300018: JUICE_1_Brique2_pack_Cube1
+    2300020: JUICE_2_Brique_base_bouchon3
+    2300022: JUICE_2_Brique_base_bouchon3_Couvercle_13
+    2300024: JUICE_2_Brique_base_bouchon3_Couvercle_24
+    2300026: JUICE_2_Brique_base_bouchon5
+    2300028: JUICE_2_Brique_base_bouchon5_Couvercle_12
+    2300030: JUICE_2_Brique_base_bouchon5_Couvercle_22
+    2300032: JUICE_2_Brique_bouchon2
+    2300034: JUICE_2_Brique_bouchon2_Couvercle_1
+    2300036: JUICE_2_Brique_bouchon2_Couvercle_21
+    2300038: JUICE_2_Brique_pack1_Cube
+    2300040: JUICE_Brique1_base_bouchon2
+    2300042: JUICE_Brique1_base_bouchon2_Couvercle_14
+    2300044: JUICE_Brique1_base_bouchon2_Couvercle_23
+    2300046: JUICE_Brique1_base_bouchon4
+    2300048: JUICE_Brique1_base_bouchon4_Couvercle_11
+    2300050: JUICE_Brique1_base_bouchon4_Couvercle_2
+    2300052: JUICE_Brique1_bouchon1
+    2300054: JUICE_Brique1_bouchon1_Couvercle_15
+    2300056: JUICE_Brique1_bouchon1_Couvercle_25
+    2300058: JUICE_Brique1_pack2_Cube2
+    3300000: JUICE_1_Brique2_base_bouchon
+    3300002: JUICE_1_Brique2_base_bouchon1
+    3300004: JUICE_1_Brique2_base_bouchon1_Couvercle_16
+    3300006: JUICE_1_Brique2_base_bouchon1_Couvercle_26
+    3300008: JUICE_1_Brique2_base_bouchon_Couvercle_18
+    3300010: JUICE_1_Brique2_base_bouchon_Couvercle_27
+    3300012: JUICE_1_Brique2_bouchon
+    3300014: JUICE_1_Brique2_bouchon_Couvercle_17
+    3300016: JUICE_1_Brique2_bouchon_Couvercle_28
+    3300018: JUICE_1_Brique2_pack_Cube1
+    3300020: JUICE_2_Brique_base_bouchon3
+    3300022: JUICE_2_Brique_base_bouchon3_Couvercle_13
+    3300024: JUICE_2_Brique_base_bouchon3_Couvercle_24
+    3300026: JUICE_2_Brique_base_bouchon5
+    3300028: JUICE_2_Brique_base_bouchon5_Couvercle_12
+    3300030: JUICE_2_Brique_base_bouchon5_Couvercle_22
+    3300032: JUICE_2_Brique_bouchon2
+    3300034: JUICE_2_Brique_bouchon2_Couvercle_1
+    3300036: JUICE_2_Brique_bouchon2_Couvercle_21
+    3300038: JUICE_2_Brique_pack1_Cube
+    3300040: JUICE_Brique1_base_bouchon2
+    3300042: JUICE_Brique1_base_bouchon2_Couvercle_14
+    3300044: JUICE_Brique1_base_bouchon2_Couvercle_23
+    3300046: JUICE_Brique1_base_bouchon4
+    3300048: JUICE_Brique1_base_bouchon4_Couvercle_11
+    3300050: JUICE_Brique1_base_bouchon4_Couvercle_2
+    3300052: JUICE_Brique1_bouchon1
+    3300054: JUICE_Brique1_bouchon1_Couvercle_15
+    3300056: JUICE_Brique1_bouchon1_Couvercle_25
+    3300058: JUICE_Brique1_pack2_Cube2
+    4300000: JUICE_1_Brique2_base_bouchon
+    4300002: JUICE_1_Brique2_base_bouchon1
+    4300004: JUICE_1_Brique2_base_bouchon1_Couvercle_16
+    4300006: JUICE_1_Brique2_base_bouchon1_Couvercle_26
+    4300008: JUICE_1_Brique2_base_bouchon_Couvercle_18
+    4300010: JUICE_1_Brique2_base_bouchon_Couvercle_27
+    4300012: JUICE_1_Brique2_bouchon
+    4300014: JUICE_1_Brique2_bouchon_Couvercle_17
+    4300016: JUICE_1_Brique2_bouchon_Couvercle_28
+    4300018: JUICE_1_Brique2_pack_Cube1
+    4300020: JUICE_2_Brique_base_bouchon3
+    4300022: JUICE_2_Brique_base_bouchon3_Couvercle_13
+    4300024: JUICE_2_Brique_base_bouchon3_Couvercle_24
+    4300026: JUICE_2_Brique_base_bouchon5
+    4300028: JUICE_2_Brique_base_bouchon5_Couvercle_12
+    4300030: JUICE_2_Brique_base_bouchon5_Couvercle_22
+    4300032: JUICE_2_Brique_bouchon2
+    4300034: JUICE_2_Brique_bouchon2_Couvercle_1
+    4300036: JUICE_2_Brique_bouchon2_Couvercle_21
+    4300038: JUICE_2_Brique_pack1_Cube
+    4300040: JUICE_Brique1_base_bouchon2
+    4300042: JUICE_Brique1_base_bouchon2_Couvercle_14
+    4300044: JUICE_Brique1_base_bouchon2_Couvercle_23
+    4300046: JUICE_Brique1_base_bouchon4
+    4300048: JUICE_Brique1_base_bouchon4_Couvercle_11
+    4300050: JUICE_Brique1_base_bouchon4_Couvercle_2
+    4300052: JUICE_Brique1_bouchon1
+    4300054: JUICE_Brique1_bouchon1_Couvercle_15
+    4300056: JUICE_Brique1_bouchon1_Couvercle_25
+    4300058: JUICE_Brique1_pack2_Cube2
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JUICE_1_Brique2_base_bouchon1Mat
+    second: {fileID: 2100000, guid: f05cad4c45925eb47a4e67caf2b5b939, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JUICE_1_Brique2_base_bouchon1_Couvercle_16Mat
+    second: {fileID: 2100000, guid: 32bb2cd6eba202e4a878dd716ec041de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JUICE_1_Brique2_base_bouchon1_Couvercle_26Mat
+    second: {fileID: 2100000, guid: e062d12243a4b30429834b63dddd1a74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JUICE_1_Brique2_base_bouchonMat
+    second: {fileID: 2100000, guid: 588d868d9b6e58c4d841890746e80728, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JUICE_1_Brique2_base_bouchon_Couvercle_18Mat
+    second: {fileID: 2100000, guid: 04adce08e1811f54cb1d2005cae761c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JUICE_1_Brique2_base_bouchon_Couvercle_27Mat
+    second: {fileID: 2100000, guid: f8f3f9531ea94bb43a471a368016051e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JUICE_1_Brique2_bouchonMat
+    second: {fileID: 2100000, guid: e2e2530b0f2b8a547a28c769d2351ee4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JUICE_1_Brique2_bouchon_Couvercle_17Mat
+    second: {fileID: 2100000, guid: 07d8b39644074204d9b2cbab96f2663f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JUICE_1_Brique2_bouchon_Couvercle_28Mat
+    second: {fileID: 2100000, guid: 8d43b540a18c93e4b93f1f5dd2c1a93b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JUICE_1_Brique2_pack_Cube1Mat
+    second: {fileID: 2100000, guid: 90011b4208bedea44acba9272b4d9b50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JUICE_2_Brique_base_bouchon3Mat
+    second: {fileID: 2100000, guid: 67018fd7fc8715c418ade75a1be7d1ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JUICE_2_Brique_base_bouchon3_Couvercle_13Mat
+    second: {fileID: 2100000, guid: e0c9edd0dbc28e04397eb4ff568627af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JUICE_2_Brique_base_bouchon3_Couvercle_24Mat
+    second: {fileID: 2100000, guid: eca57b0c0d3c10b489884a8a30c81055, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JUICE_2_Brique_base_bouchon5Mat
+    second: {fileID: 2100000, guid: a493caaa30e69b240bbf312abcd9b4f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JUICE_2_Brique_base_bouchon5_Couvercle_12Mat
+    second: {fileID: 2100000, guid: 5942949ff6929584c9dbdf9476357f00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JUICE_2_Brique_base_bouchon5_Couvercle_22Mat
+    second: {fileID: 2100000, guid: a537a8d0baa40e34e932e5b3a8ab9346, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JUICE_2_Brique_bouchon2Mat
+    second: {fileID: 2100000, guid: 649aa285f35633b46968c90b350f350b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JUICE_2_Brique_bouchon2_Couvercle_1Mat
+    second: {fileID: 2100000, guid: cfb75536a2f4f3342a9dc3528fc6e4f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JUICE_2_Brique_bouchon2_Couvercle_21Mat
+    second: {fileID: 2100000, guid: e7279ff50ddfa9b4dbd0bda51c05fd11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JUICE_2_Brique_pack1_CubeMat
+    second: {fileID: 2100000, guid: f69f7ef84cd0804498bbf5b694d40234, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JUICE_Brique1_base_bouchon2Mat
+    second: {fileID: 2100000, guid: a603b975821c32f4da64d1cbaaf0bba4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JUICE_Brique1_base_bouchon2_Couvercle_14Mat
+    second: {fileID: 2100000, guid: 869879ba5e62b8d4288f8f41d3d6aec1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JUICE_Brique1_base_bouchon2_Couvercle_23Mat
+    second: {fileID: 2100000, guid: 57a8ffe248c5bc44ebdb7a121f7e8fcb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JUICE_Brique1_base_bouchon4Mat
+    second: {fileID: 2100000, guid: 214b316699051f844b47c97a155b1f1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JUICE_Brique1_base_bouchon4_Couvercle_11Mat
+    second: {fileID: 2100000, guid: 3c8daf206a7d7d44399435b58332aa28, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JUICE_Brique1_base_bouchon4_Couvercle_2Mat
+    second: {fileID: 2100000, guid: 4bd9ae931b1ac9845b160fd2f8d4015e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JUICE_Brique1_bouchon1Mat
+    second: {fileID: 2100000, guid: 544b482576c53b64f9ea49966ed796ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JUICE_Brique1_bouchon1_Couvercle_15Mat
+    second: {fileID: 2100000, guid: 670661b768f52754aab06cc16155db11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JUICE_Brique1_bouchon1_Couvercle_25Mat
+    second: {fileID: 2100000, guid: bad9088380f49ef4984a8e856ec67383, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JUICE_Brique1_pack2_Cube2Mat
+    second: {fileID: 2100000, guid: ead8fab43df81264fb4a2e46f4e2aba4, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

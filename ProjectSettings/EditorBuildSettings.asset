@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/marti/curso_entrenamiento.unity
+    guid: f7c9e58a87b697447ba250ee984dd3d7
+  - enabled: 1
+    path: Assets/inicio.unity
+    guid: 245b218cad3b547429507c023571308d
+  - enabled: 1
+    path: Assets/menu.unity
+    guid: 058821a84fe73194cb34568ef52ed5c2
+  - enabled: 1
+    path: Assets/prototiponivelesweno 1.unity
+    guid: 20a0f5e5814d81344aa6a06fac1bf0c3
+  - enabled: 0
+    path: Assets/Principal.unity
+    guid: 37f3df33c2aa2b443a86c79c2fd8b40b
+  - enabled: 0
+    path: Assets/Efpies.unity
+    guid: 0d2ea5c98f5dc494b96926b4d54cc7ab
+  - enabled: 0
+    path: Assets/youtube.unity
+    guid: 24107cd98d17ad4418c5c8b7ca46bae9
+  - enabled: 0
+    path: Assets/Comentarios.unity
+    guid: 12aecffe3784a6d4397082ee569bdbf1
+  - enabled: 0
+    path: Assets/burguer gay.unity
+    guid: 889f329d35d01094c8beff86631f4042
+  - enabled: 0
+    path: Assets/hasganao.unity
+    guid: 09ca389a67159ed44ad3ec967423bd66
+  - enabled: 1
+    path: Assets/naves y eso.unity
+    guid: 3823eb8df23e8e64c870d8122da668dd
+  - enabled: 0
+    path: Assets/prototipo.unity
+    guid: ca1ff59ceea747749b1ec8149809b2c3
+  - enabled: 0
+    path: Assets/burguer gay 1.unity
+    guid: aff2b778baaab2b4384fb7dc4100f43e
+  - enabled: 1
+    path: Assets/snake.unity
+    guid: efc0162167bb50e4e94f772100f22e1f
+  - enabled: 0
+    path: Assets/prototiponivelesweno.unity
+    guid: 453e2e34f7ef4d645be3f4e8158598e2
+  - enabled: 1
+    path: Assets/carga.unity
+    guid: 7a2b33586b2ec794bbc4486f41d2bf5c
+  m_configObjects: {}
