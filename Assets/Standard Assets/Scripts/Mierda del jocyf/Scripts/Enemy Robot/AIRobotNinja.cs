@@ -457,10 +457,17 @@ public class AIRobotNinja : MonoBehaviour
         Animasion.transicionlol("Stunneao");
         Soyelmovedorgay.enabled = false;
         ag.mareao = true;
-        if (GetComponent<ManageEnemyStatus1>().Icono.activeSelf) { return; }
+        StartCoroutine(activaricono());
+    }
+
+    IEnumerator activaricono()
+    {
+        yield return null;
+
+        if (GetComponent<ManageEnemyStatus1>().Icono.activeSelf) { yield break; }
         GetComponent<ManageEnemyStatus1>().Icono.SetActive(true);
     }
-    
+
     void regresablock()
     {
         GetComponent<Animator>().CrossFadeInFixedTime("parry3", 1.1f, -1, 0, 0);

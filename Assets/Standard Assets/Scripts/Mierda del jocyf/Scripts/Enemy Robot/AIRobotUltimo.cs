@@ -1061,9 +1061,17 @@ public class AIRobotUltimo : MonoBehaviour
         Animasion.transicionlol2("Stunneao", 0.2f);
         Soyelmovedorgay.enabled = false;
         ag.mareao = true;
-        if (GetComponent<ManageEnemyStatus1>().Icono.activeSelf) { return; }
+        StartCoroutine(activaricono());
+    }
+
+    IEnumerator activaricono()
+    {
+        yield return null;
+
+        if (GetComponent<ManageEnemyStatus1>().Icono.activeSelf) { yield break; }
         GetComponent<ManageEnemyStatus1>().Icono.SetActive(true);
     }
+
     public void hasmoridolol()
     {
        // Controlador.enemigosnormales -= 1;

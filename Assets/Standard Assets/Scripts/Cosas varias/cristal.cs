@@ -12,7 +12,7 @@ public class cristal : MonoBehaviour {
 	public void bum(Vector3 pos)
     {
         GameObject lol = Instantiate(shatter, pos, transform.rotation);
-        lol.transform.localPosition += lol.transform.right * -0.02f;
+        lol.transform.localPosition += lol.transform.forward * -0.02f;
         lol.GetComponent<AudioSource>().clip = sonidos[Random.Range(0, sonidos.Length)];
         lol.GetComponent<AudioSource>().Play();
         lol.SendMessage("uf");
@@ -28,7 +28,7 @@ public class cristal : MonoBehaviour {
         if (other.transform.CompareTag("cristal"))
         {
             //GetComponentInParent<cristal>().com[id] = true;
-            transform.parent.GetComponent<cristal>().com[id] = true;
+            transform.parent.parent.GetComponent<cristal>().com[id] = true;
         }
     }
 
