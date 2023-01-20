@@ -212,10 +212,10 @@ public class DisparoSecundario : MonoBehaviour {
 							{
 								float prc = selec.nerfeo(hit);
 
-								hit.collider.SendMessage("Aplicacriticks", GunStatusScript.Critico * prc);
-								hit.collider.SendMessage("AplicaDamage", GunStatusScript.Damage * prc);
-								hit.collider.SendMessage("Posgay", transform.position);																
-								hit.collider.SendMessage("AplicaStun", GunStatusScript.Stun * prc);
+								hit.collider.SendMessage("Aplicacriticks", GunStatusScript.Critico * prc, SendMessageOptions.DontRequireReceiver);
+								hit.collider.SendMessage("AplicaDamage", GunStatusScript.Damage * prc, SendMessageOptions.DontRequireReceiver);
+								hit.collider.SendMessage("Posgay", transform.position, SendMessageOptions.DontRequireReceiver);																
+								hit.collider.SendMessage("AplicaStun", GunStatusScript.Stun * prc, SendMessageOptions.DontRequireReceiver);
 							}
 
 						}
@@ -553,10 +553,10 @@ public class DisparoSecundario : MonoBehaviour {
 					// Aplica damage
 					if (hit.collider.tag.Contains("Blanco") || hit.collider.gameObject.tag.Contains("Enemy") || hit.collider.gameObject.tag.Contains("cabesa") || hit.collider.gameObject.tag.Contains("cristal"))
 					{
-						hit.collider.SendMessage("Posgay", hit.point);
-						hit.collider.SendMessage("Aplicacriticks", GunStatusScript.Critico);
-						hit.collider.SendMessage("AplicaDamage", GunStatusScript.Damage);
-						hit.collider.SendMessage("AplicaStun", GunStatusScript.Stun);
+						hit.collider.SendMessage("Posgay", hit.point, SendMessageOptions.DontRequireReceiver);
+						hit.collider.SendMessage("Aplicacriticks", GunStatusScript.Critico, SendMessageOptions.DontRequireReceiver);
+						hit.collider.SendMessage("AplicaDamage", GunStatusScript.Damage, SendMessageOptions.DontRequireReceiver);
+						hit.collider.SendMessage("AplicaStun", GunStatusScript.Stun, SendMessageOptions.DontRequireReceiver);
 					}
 
 

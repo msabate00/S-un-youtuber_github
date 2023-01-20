@@ -721,10 +721,10 @@ public class DisparoSelectivo : MonoBehaviour
                                     // Aplica damage
                                     if (hit.collider.tag.Contains("Blanco") || hit.collider.gameObject.tag.Contains("Enemy") || hit.collider.gameObject.tag.Contains("cabesa") || hit.collider.gameObject.tag.Contains("cristal"))
                                     {
-                                        hit.collider.SendMessage("Posgay", hit.point);
-                                        hit.collider.SendMessage("Aplicacriticks", nor.listagay[NumeroArma].Critico);
-                                        hit.collider.SendMessage("AplicaDamage", nor.listagay[NumeroArma].Damage);
-                                        hit.collider.SendMessage("AplicaStun", nor.listagay[NumeroArma].Stun);
+                                        hit.collider.SendMessage("Posgay", hit.point, SendMessageOptions.DontRequireReceiver);
+                                        hit.collider.SendMessage("Aplicacriticks", nor.listagay[NumeroArma].Critico, SendMessageOptions.DontRequireReceiver);
+                                        hit.collider.SendMessage("AplicaDamage", nor.listagay[NumeroArma].Damage, SendMessageOptions.DontRequireReceiver);
+                                        hit.collider.SendMessage("AplicaStun", nor.listagay[NumeroArma].Stun, SendMessageOptions.DontRequireReceiver);
                                     }
 
                                 }
@@ -806,10 +806,10 @@ public class DisparoSelectivo : MonoBehaviour
                                     if (hit.collider.tag.Contains("Blanco") || hit.collider.gameObject.tag.Contains("Enemy") || hit.collider.gameObject.tag.Contains("cabesa") || hit.collider.gameObject.tag.Contains("cristal"))
                                     {
                                         float prc = nerfeo(hit);
-                                        hit.collider.SendMessage("Posgay", transform.position);
-                                        hit.collider.SendMessage("Aplicacriticks", nor.listagay[NumeroArma].Critico * prc);
-                                        hit.collider.SendMessage("AplicaDamage", nor.listagay[NumeroArma].Damage * prc);
-                                        hit.collider.SendMessage("AplicaStun", nor.listagay[NumeroArma].Stun * prc);
+                                        hit.collider.SendMessage("Posgay", transform.position, SendMessageOptions.DontRequireReceiver);
+                                        hit.collider.SendMessage("Aplicacriticks", nor.listagay[NumeroArma].Critico * prc, SendMessageOptions.DontRequireReceiver);
+                                        hit.collider.SendMessage("AplicaDamage", nor.listagay[NumeroArma].Damage * prc, SendMessageOptions.DontRequireReceiver);
+                                        hit.collider.SendMessage("AplicaStun", nor.listagay[NumeroArma].Stun * prc, SendMessageOptions.DontRequireReceiver);
                                     }
 
                                 }
@@ -1344,7 +1344,7 @@ public class DisparoSelectivo : MonoBehaviour
             Debug.Log("sex2");
         }
         
-        // DecallObj.transform.parent = hit.transform; NO TIO XQ EN LAS SUPERFICIES PLANAS ES GAY
+         DecallObj.transform.parent = hit.transform; //NO TIO XQ EN LAS SUPERFICIES PLANAS ES GAY
     }
     public void Crearsangre(RaycastHit hit)
     {

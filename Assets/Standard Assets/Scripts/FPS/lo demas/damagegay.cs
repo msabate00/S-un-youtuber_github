@@ -224,7 +224,18 @@ public class damagegay : MonoBehaviour {
 
                         DecallObj2.transform.position += DecallObj2.transform.up * 0.03f;
                     }
-                    Destroy(gameObject);
+
+                    if (!ballesta)
+                    {
+                        Destroy(gameObject);
+                    }
+                    else
+                    {
+                        velocidadgay = 0;
+                        transform.position = hit2.point;
+
+                        GetComponent<sonidoballesta>().dalebro(0);
+                    }
                 }
             }
         }

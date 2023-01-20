@@ -1,3 +1,7 @@
+20/01/2023
+-Añadido sonidos a las putas puertas que asco joder
+-Bug fixes varios
+
 19/01/2023
 -Bug cápsulas desaparecen arregladas
 -Cristales ahora tienen shatter

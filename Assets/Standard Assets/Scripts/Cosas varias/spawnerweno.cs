@@ -45,7 +45,7 @@ public class spawnerweno : MonoBehaviour {
 		AsignarId();
 
 		StartCoroutine(gays2());
-		mierda1 = GameObject.Find("MierdasGays").GetComponent<TextMeshProUGUI>();
+		//mierda1 = GameObject.Find("MierdasGays").GetComponent<TextMeshProUGUI>();
 	}
 
 	

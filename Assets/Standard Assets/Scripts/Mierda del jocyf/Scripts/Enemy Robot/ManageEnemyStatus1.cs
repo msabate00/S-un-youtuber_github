@@ -123,6 +123,8 @@ public class ManageEnemyStatus1 : MonoBehaviour
            // a.isTrigger = true;
         }
 
+        if (stun == null) { return; }
+
         tiempodesaparaceorig = tiempodesaparace;
         lacosaesa2 = stun.transform.localScale;
         lacosaesa = vida.transform.localScale;
@@ -250,6 +252,9 @@ public class ManageEnemyStatus1 : MonoBehaviour
 
     void Update()
     {
+
+        if (imagengay == null) { return; }
+
         if (hemuertoupdate)
         {
             puntoshomosexuales();
@@ -822,6 +827,7 @@ public class ManageEnemyStatus1 : MonoBehaviour
         }
 
         Soyelmovedorgay = GetComponent<UnityEngine.AI.NavMeshAgent>();
+        if (yo == null) { return; }
         Animasion = yo.GetComponent<AIAnimation>();
         //imagengay = GetComponent<Image>();
         /*GameObject ScoreObj = GameObject.Find("GUI Score");
